@@ -54,7 +54,7 @@ The more important finding was in the At Risk segment. In 2022, at-risk customer
 |-- 2.Notebook/Data_Cleaning.ipynb    # Python cleaning & ingestion script.
 |-- 3.Clean Production Data/   # Automated CSV backups post-Python scrubbing.
 |-- 4.SQL Script/ # Decoupled reporting layer view definitions.
-|-- 5.Power BI Dashboard/ commercial_intelligence_model.pbix  # High performance Power BI Dashboard.
+|-- 5.Power BI Dashboard/ Sales Analytics.pbix  # High performance Power BI Dashboard.
 |-- 6.Assets/ # Screenshots Production dashboard captures.
 
 ```
